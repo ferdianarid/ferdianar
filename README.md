@@ -1,8 +1,6 @@
 ### Hi, I'm Ferdian Ahmad R. 👋
-### Welcome to my Github Account. Lets explore my Portfolio
-
+Welcome to my Github Account. Lets explore my Portfolio
 <img src="https://raw.githubusercontent.com/ferdianar/ferdianarportfolio/master/eco.jpg" alt="Ferdian Ahmad R Profile - Instructor and Frontend Developer">
-
 My name is Ferdian, I major in informatics engineering, I explore the world of websites, especially on the Frontend Web Development. I have studied for more than 3 years. and have 1 year+ work experience. I also study ui ux design and research to build useful products
 
 ## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/ferdianar/ferdianarportfolio/master/js.jpg"></a>

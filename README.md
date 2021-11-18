@@ -11,7 +11,7 @@ My name is Ferdian, I major in informatics engineering, I explore the world of w
 
 <p align="left">
 <a href="https://github.com/ferdianar">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdianar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdianar&layout=compact&langs_count=12&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdianar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdianar&layout=compact&langs_count=12&theme=algolia"/>
 </a>
 </p>

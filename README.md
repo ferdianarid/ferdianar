@@ -1,5 +1,6 @@
 ### Hi, I'm Ferdian Ahmad R. 👋
 Welcome to my Github Account. Lets explore my Portfolio
+<img src="https://raw.githubusercontent.com/ferdianar/pesonaasia/main/file_type_js_official_icon_130509.svg?token=GHSAT0AAAAAABMD4XBVIC7VJ6PN7A43CBCYYPHYIPQ" />
 ### My <a href="https://tailwindcomponents.com/u/ferdianar">Components</a> on Tailwind Components.
 <!-- <img src="https://raw.githubusercontent.com/ferdianar/ferdianarportfolio/master/eco.jpg" alt="Ferdian Ahmad R Profile - Instructor and Frontend Developer"> -->
 My name is Ferdian, I major in informatics engineering, I explore the world of websites, especially on the Frontend Web Development. I have studied for more than 3 years. and have 1 year+ work experience. I also study ui ux design and research to build useful products

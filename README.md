@@ -2,8 +2,6 @@
 Welcome to my Github Account. Lets explore my Portfolio
 <p>
 <img height="50px" width="50px" src="https://raw.githubusercontent.com/ferdianar/pesonaasia/main/file_type_js_official_icon_130509.svg?token=GHSAT0AAAAAABMD4XBVD6W6HN55VF7YDMHEYPHZFTA" />
-</p>
-<p>
 <img height="50px" width="50px" src="https://raw.githubusercontent.com/ferdianar/pesonaasia/main/file_type_typescript_official_icon_130107.svg?token=GHSAT0AAAAAABMD4XBVT2JAAFJXVL4FDQJOYPHY5KA" />
 </p>
 <!-- <img src="https://raw.githubusercontent.com/ferdianar/ferdianarportfolio/master/eco.jpg" alt="Ferdian Ahmad R Profile - Instructor and Frontend Developer"> -->

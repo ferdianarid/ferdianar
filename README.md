@@ -2,8 +2,6 @@
 Welcome to my Github Account. Lets explore my Portfolio
 <p>
 <img height="50px" width="50px" src="https://raw.githubusercontent.com/ferdianar/pesonaasia/main/file_type_js_official_icon_130509.svg?token=GHSAT0AAAAAABMD4XBVD6W6HN55VF7YDMHEYPHZFTA" />
-<img height="50px" width="50px" src="https://raw.githubusercontent.com/ferdianar/pesonaasia/main/file_type_typescript_official_icon_130107.svg?token=GHSAT0AAAAAABMD4XBVT2JAAFJXVL4FDQJOYPHY5KA" />
-</p>
 <!-- <img src="https://raw.githubusercontent.com/ferdianar/ferdianarportfolio/master/eco.jpg" alt="Ferdian Ahmad R Profile - Instructor and Frontend Developer"> -->
 My name is Ferdian, I major in informatics engineering, I explore the world of websites, especially on the Frontend Web Development. I have studied for more than 3 years. and have 1 year+ work experience. I also study ui ux design and research to build useful products
 

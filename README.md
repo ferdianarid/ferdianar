@@ -1,7 +1,7 @@
 ### Hi, I'm Ferdian Ahmad R. 👋
 Welcome to my Github Account. Lets explore my Portfolio
 
-![](https://komarev.com/ghpvc/?username=ferdianar)
+![](https://komarev.com/ghpvc/?username=ferdianar)![Next JS](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 <!-- <img src="https://raw.githubusercontent.com/ferdianar/ferdianarportfolio/master/eco.jpg" alt="Ferdian Ahmad R Profile - Instructor and Frontend Developer"> -->
 My name is Ferdian, I major in informatics engineering, I explore the world of websites, especially on the Frontend Web Development. I have studied for more than 3 years. and have 1 year+ work experience. I also study ui ux design and research to build useful products

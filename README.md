@@ -10,7 +10,7 @@ My name is Ferdian, I major in informatics engineering, I explore the world of w
 Currently learn and explore about Redux State Management, GraphQL and Hasura GraphQL Engine
 
 ## Find me around the web 🌎: <img align="left" width="160" height="140" src="https://raw.githubusercontent.com/ferdianar/ferdianarportfolio/master/React%20JS.png"></a>
- - Write and Sharing knowlegde on <a href="https://medium.com/@ferdianahmadrozikin018" alt="medium ferdian"> Medium </a> 📹 ✍🏾
+ - Write and Sharing knowlegde on <a href="https://ferdianar.medium.com/" alt="medium ferdian"> Medium </a> 📹 ✍🏾
  - Profile description, skills, achievement and working experience on <a href="https://www.linkedin.com/in/ferdianar/"> LinkedIn </a>
  - Learn problem solving skill for solving any problem in <a href="https://www.hackerrank.com/ferdianarid"> Hackerrank </a>
  - Spare time also create posts about programming on <a href="https://www.instagram.com/ferdianarid/"> Instagram </a>

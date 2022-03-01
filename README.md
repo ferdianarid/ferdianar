@@ -5,11 +5,9 @@ Welcome to my Github Account. Lets explore my Playground
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <!-- <img src="https://raw.githubusercontent.com/ferdianar/ferdianarportfolio/master/eco.jpg" alt="Ferdian Ahmad R Profile - Instructor and Frontend Developer"> -->
-My name is Ferdian, I major in informatics engineering, I explore the world of websites, especially on the Frontend Web Development. I have studied for more than 3 years. and have 2 year+ work experience. I'm very passionate about learning new technologies trends like JavaScript Framework and Design Trend.
+My name is Ferdian, I major in informatics engineering, I explore the world of websites, especially on the Frontend Web Development. I have studied for more than 3 years. and have 2 year+ work experience. I'm very passionate about learning new technologies trends like JavaScript Framework and Design Trend. **Visual Studio Code** and **Figma** Users
 
 Currently learn and explore about Redux State Management, GraphQL and Hasura GraphQL Engine
-
-**Visual Studio Code** and **Figma** Users
 
 ## Find me around the web 🌎:
  - Write and Sharing knowlegde on <a href="https://ferdianar.medium.com/" alt="medium ferdian"> Medium </a> 📹 ✍🏾

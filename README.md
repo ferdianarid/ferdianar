@@ -52,6 +52,12 @@ Currently learn and explore about Redux State Management, GraphQL and Hasura Gra
       </a>
       <br>TypeScript
     </td>
+   <td align="center" width="96">
+      <a href="#">
+        <img src="./img/redux.svg" width="48" height="48" alt="redux" />
+      </a>
+      <br>Redux
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
@@ -82,11 +88,11 @@ Currently learn and explore about Redux State Management, GraphQL and Hasura Gra
       </a>
       <br>Sass
     </td>
-   <td align="center" width="96">
+<!--    <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>
       <br>Powershell
-    </td>
+    </td> -->
   </tr>
 </table>

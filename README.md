@@ -23,4 +23,4 @@ Currently learn and explore about Redux State Management, GraphQL and Hasura Gra
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdianar" alt="mszeles" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh"><img src="https://github-profile-trophy.vercel.app/?username=ferdianar" alt="ferdian" /></a> </p>

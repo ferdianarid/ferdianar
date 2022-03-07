@@ -60,7 +60,7 @@ Currently learn and explore about Redux State Management, GraphQL and Hasura Gra
    </td>
    <td align="center" width="96">
       <a href="#" >
-        <img src="./img/tailwind.svg" width="48" height="48" alt="tailwind" />
+        <img src="./img/tailwind.png" width="48" height="48" alt="tailwind" />
       </a>
       <br>Tailwind CSS
     </td>
@@ -74,7 +74,7 @@ Currently learn and explore about Redux State Management, GraphQL and Hasura Gra
       <a href="#" >
         <img src="./img/reactquery.svg" width="48" height="48" alt="reactquery" />
       </a>
-      <br>React Query
+      <br>ReQuery
     </td>
     <td align="center" width="96">
       <a href="#">

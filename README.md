@@ -1,9 +1,9 @@
 ### Hi, I'm Ferdian Ahmad R. 👋 ![](https://komarev.com/ghpvc/?username=ferdianar)
 Welcome to my Github Account. Lets explore my Playground
 
-<h1 align="center">
+<h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Lets+Explore+My+Github+Portfolio+👋;I'm+mostly+using+JavaScript;Nice+to+meet+you!&center=false&size=22">
   </a>
 </h1>
 

@@ -1,10 +1,8 @@
 ### Hi, I'm Ferdian Ahmad R. 👋 ![](https://komarev.com/ghpvc/?username=ferdianar)
-Welcome to my Github Account. Lets explore my Playground
+Welcome to my Github Account.
 
 <h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Lets+Explore+My+Github+Portfolio+👋;I'm+mostly+using+JavaScript;Nice+to+meet+you!&center=false&size=22">
-  </a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&color=%23F6F703&size=18&duration=7000&lines=Let's+Explore+My+Github+Portfolio+%F0%9F%91%8B;I'm+mostly+using+JavaScript+Language+%F0%9F%8C%9F;Focused+in+Frontend+Development+%F0%9F%8E%AD;Mostly+Collaboration+with+UI%2FUX+Designer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+and+Backend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Interest+about+Design+System+Component+%F0%9F%A7%A9;Always+use+Task+Manaement+%F0%9F%93%86;Thank+You+......+!!!+%F0%9F%91%8F%F0%9F%91%8F)](https://git.io/typing-svg)
 </h1>
 
 ![Next JS](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

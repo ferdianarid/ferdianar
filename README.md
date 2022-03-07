@@ -54,7 +54,7 @@ Currently learn and explore about Redux State Management, GraphQL and Hasura Gra
     </td>
    <td align="center" width="96">
       <a href="#">
-        <img src="./img/redux.svg" width="48" height="48" alt="redux" />
+        <img src="./img/redux.png" width="48" height="48" alt="redux" />
       </a>
       <br>Redux
     </td>

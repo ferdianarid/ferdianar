@@ -21,3 +21,6 @@ Currently learn and explore about Redux State Management, GraphQL and Hasura Gra
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdianar&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferdianar" alt="mszeles" /></a> </p>

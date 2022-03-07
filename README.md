@@ -36,9 +36,15 @@ Currently learn and explore about Redux State Management, GraphQL and Hasura Gra
   <tr>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://miro.medium.com/max/1000/1*KDMx1YspSrBcFJG-NDZgDg.png" width="48" height="48" alt="Next" />
+        <img src="./img/next.png" width="48" height="48" alt="Next" />
       </a>
-      <br>Next.js
+      <br>Next JS
+    </td>
+   <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/react.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React JS
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -51,18 +57,24 @@ Currently learn and explore about Redux State Management, GraphQL and Hasura Gra
         <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
+   </td>
+   <td align="center" width="96">
       <a href="#" >
-        <img src="./img/react.svg" width="48" height="48" alt="React" />
+        <img src="./img/tailwind.svg" width="48" height="48" alt="tailwind" />
       </a>
-      <br>React
+      <br>Tailwind CSS
     </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+   <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/graphql.png" width="48" height="48" alt="graphql" />
       </a>
-      <br>Bootstrap
+      <br>GraphQL
+    </td>
+   <td align="center" width="96">
+      <a href="#" >
+        <img src="./img/reactquery.svg" width="48" height="48" alt="reactquery" />
+      </a>
+      <br>React Query
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -70,15 +82,7 @@ Currently learn and explore about Redux State Management, GraphQL and Hasura Gra
       </a>
       <br>Sass
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
+   <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
       </a>

@@ -1,10 +1,9 @@
 ### Hi, I'm Ferdian Ahmad R. 👋 ![](https://komarev.com/ghpvc/?username=ferdianar)
-Welcome to my Github Account.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans&color=%23F6F703&size=18&duration=7500&lines=Let's+Explore+My+Github+Portfolio+%F0%9F%91%8B;I'm+mostly+using+JavaScript+Language+%F0%9F%8C%9F;Focused+in+Frontend+Development+%F0%9F%8E%AD;Also+Learn+Backend+Development+with+JS+%F0%9F%92%BB;Interest+about+Design+System+Component+%F0%9F%A7%A9;Always+using+Task+Management+%F0%9F%93%86;Thank+You+......+!!!+%F0%9F%91%8F%F0%9F%91%8F)](https://git.io/typing-svg)
 
-![Next JS](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<!-- ![Next JS](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 
 <!-- <img src="https://raw.githubusercontent.com/ferdianar/ferdianarportfolio/master/eco.jpg" alt="Ferdian Ahmad R Profile - Instructor and Frontend Developer"> -->
 I major in **Informatics Engineering**, I explore the world of websites, especially on the **Frontend Web Development**. I have studied for more than 3+ years. and have 2+ year **Work Experience**. I'm very passionate about learning new technologies trends like JavaScript Framework and Design Trend. **Visual Studio Code** and **Figma** Users

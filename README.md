@@ -15,9 +15,9 @@ I major in **Informatics Engineering**, I explore the world of websites, especia
 </a>
 </p>
 
-### 🏆 Github Profile Trophy
-
-<p align="left"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ferdianar&theme=juicyfresh&margin-w=4&margin-h=4&row=1&column=6"/></a></p>
+<!-- ### 🏆 Github Profile Trophy
+ -->
+<!-- <p align="left"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ferdianar&theme=juicyfresh&margin-w=4&margin-h=4&row=1&column=6"/></a></p> -->
  
 ### 🌟 Favourite Technologies
 

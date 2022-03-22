@@ -92,4 +92,4 @@ I major in **Informatics Engineering**, I explore the world of websites, especia
  - Write and Sharing knowlegde on <a href="https://ferdianar.medium.com/" alt="medium ferdian"> Medium </a> 📹 ✍🏾
  - Profile description, skills, achievement and working experience on <a href="https://www.linkedin.com/in/ferdianar/"> LinkedIn </a>
  - Spare time also create posts about programming on <a href="https://www.instagram.com/ferdianarid/"> Instagram </a>
- - <!--  - Learn problem solving skill for solving any problem in <a href="https://www.hackerrank.com/ferdianarid"> Hackerrank </a> -->
+ <!--  - Learn problem solving skill for solving any problem in <a href="https://www.hackerrank.com/ferdianarid"> Hackerrank </a> -->

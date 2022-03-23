@@ -19,24 +19,24 @@ I major in **Informatics Engineering**, I explore the world of websites, especia
  -->
 <!-- <p align="left"><a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ferdianar&theme=juicyfresh&margin-w=4&margin-h=4&row=1&column=6"/></a></p> -->
  
-### 🌟 Favourite Technologies
+<!-- ### 🌟 Favourite Technologies
 
 > Tools, languages, and other things that I like to work with.
 
 <table>
-  <tr>
+  <tr> -->
 <!--     <td align="center" width="96">
       <a href="#">
         <img src="./img/next.png" width="48" height="48" alt="Next" />
       </a>
       <br>Next JS
     </td> -->
-   <td align="center" width="96">
+<!--    <td align="center" width="96">
       <a href="#" >
         <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React JS
-    </td>
+    </td> -->
 <!--     <td align="center" width="96">
       <a href="#">
         <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
@@ -49,7 +49,7 @@ I major in **Informatics Engineering**, I explore the world of websites, especia
       </a>
       <br>Redux
     </td> -->
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#">
         <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
@@ -60,7 +60,7 @@ I major in **Informatics Engineering**, I explore the world of websites, especia
         <img src="./img/tailwind.png" width="48" height="48" alt="tailwind" />
       </a>
       <br>Tailwind
-    </td>
+    </td> -->
 <!--    <td align="center" width="96">
       <a href="#" >
         <img src="./img/graphql.png" width="48" height="48" alt="graphql" />
@@ -85,8 +85,8 @@ I major in **Informatics Engineering**, I explore the world of websites, especia
       </a>
       <br>Powershell
     </td> -->
-  </tr>
-</table>
+<!--   </tr>
+</table> -->
 
 ## Find me around the web 🌎:
  - Write and Sharing knowlegde on <a href="https://ferdianar.medium.com/" alt="medium ferdian"> Medium </a> 📹 ✍🏾

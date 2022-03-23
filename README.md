@@ -25,30 +25,30 @@ I major in **Informatics Engineering**, I explore the world of websites, especia
 
 <table>
   <tr>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#">
         <img src="./img/next.png" width="48" height="48" alt="Next" />
       </a>
       <br>Next JS
-    </td>
+    </td> -->
    <td align="center" width="96">
       <a href="#" >
         <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React JS
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#">
         <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
-    </td>
-   <td align="center" width="96">
+    </td> -->
+<!--    <td align="center" width="96">
       <a href="#">
         <img src="./img/redux.png" width="48" height="48" alt="redux" />
       </a>
       <br>Redux
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#">
         <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
@@ -61,24 +61,24 @@ I major in **Informatics Engineering**, I explore the world of websites, especia
       </a>
       <br>Tailwind
     </td>
-   <td align="center" width="96">
+<!--    <td align="center" width="96">
       <a href="#" >
         <img src="./img/graphql.png" width="48" height="48" alt="graphql" />
       </a>
       <br>GraphQL
-    </td>
-   <td align="center" width="96">
+    </td> -->
+<!--    <td align="center" width="96">
       <a href="#" >
         <img src="./img/reactquery.svg" width="48" height="48" alt="reactquery" />
       </a>
       <br>ReQuery
-    </td>
-    <td align="center" width="96">
+    </td> -->
+<!--     <td align="center" width="96">
       <a href="#">
         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
-    </td>
+    </td> -->
 <!--    <td align="center" width="96">
       <a href="#">
         <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />

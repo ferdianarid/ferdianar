@@ -8,6 +8,8 @@
 <!-- <img src="https://raw.githubusercontent.com/ferdianar/ferdianarportfolio/master/eco.jpg" alt="Ferdian Ahmad R Profile - Instructor and Frontend Developer"> -->
 <!-- I major in **Informatics Engineering**, I explore the world of websites, especially on the **Frontend Web Development**. I have studied for more than 3+ years. and have 2+ year **Work Experience**. I'm very passionate about learning new technologies trends like JavaScript Framework and Design Trend. **Visual Studio Code** and **Figma** Users -->
 
+<a href="#"><img src="https://api.daily.dev/devcards/664069b76eac4c99ae4bcc41edc056b4.png?r=mm1" width="400" alt="Ferdian Ahmad R's Dev Card"/></a>
+
 <p align="left">
 <a href="https://github.com/ferdianar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdianar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

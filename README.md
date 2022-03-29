@@ -11,7 +11,7 @@
 
 
 
-<a href="#"><img src="https://api.daily.dev/devcards/664069b76eac4c99ae4bcc41edc056b4.png?r=mm1" width="300" alt="Ferdian Ahmad R's Dev Card"/></a>
+<!-- <a href="#"><img src="https://api.daily.dev/devcards/664069b76eac4c99ae4bcc41edc056b4.png?r=mm1" width="300" alt="Ferdian Ahmad R's Dev Card"/></a> -->
 
 <p align="left">
 <a href="https://github.com/ferdianar">

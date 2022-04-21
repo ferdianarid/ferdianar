@@ -97,9 +97,9 @@
 </table> -->
 
 ### Find and discover me around the web 🌎:
- - Contribute create some components in <a href="https://tailwindcomponents.com/u/ferdian-ahmad-r" alt="tailwind"> **Tailwind Components** </a>
- - Share small article and explain about my profile and interest in <a href="https://ferdian.vercel.app/" alt="website"> **Personal Website** </a>
- - Write article post and Sharing knowldge about technology in <a href="https://ferdianar.medium.com/" alt="medium ferdian"> **Medium** </a>
- - Profile description, skills, achievement and working experience on <a href="https://www.linkedin.com/in/ferdianar/"> **LinkedIn** </a>
- - Spare time also create posts about programming on <a href="https://www.instagram.com/ferdianarid/"> **Instagram** </a>
+ - Contribute create some components in <a href="https://tailwindcomponents.com/u/ferdian-ahmad-r" target="_blank" alt="tailwind"> **Tailwind Components** </a>
+ - Share small article and explain about my profile and interest in <a href="https://ferdian.vercel.app/" target="_blank" alt="website"> **Personal Website** </a>
+ - Write article post and Sharing knowldge about technology in <a href="https://ferdianar.medium.com/" target="_blank" alt="medium ferdian"> **Medium** </a>
+ - Profile description, skills, achievement and working experience on <a href="https://www.linkedin.com/in/ferdianar/" target="_blank" alt="linkedin"> **LinkedIn** </a>
+ - Spare time also create posts about programming on <a href="https://www.instagram.com/ferdianarid/" target="_blank" alt="instagram"> **Instagram** </a>
  <!--  - Learn problem solving skill for solving any problem in <a href="https://www.hackerrank.com/ferdianarid"> Hackerrank </a> -->

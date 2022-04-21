@@ -21,7 +21,7 @@
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdianar&theme=dark" alt="ferdianar" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferdianar&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D&fire=DDCF00&background=00031B&border=D5DD00&stroke=CDDD00&ring=5A59DD&currStreakNum=D8DD00&sideNums=D9EA2D&currStreakLabel=DD2727&sideLabels=7B6DDD&dates=DDDC1D)](https://git.io/streak-stats)
 
 <!-- ### 🏆 Github Profile Trophy
  -->

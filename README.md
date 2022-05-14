@@ -15,12 +15,12 @@
 
 <!-- <a href="#"><img src="https://api.daily.dev/devcards/664069b76eac4c99ae4bcc41edc056b4.png?r=mm1" width="300" alt="Ferdian Ahmad R's Dev Card"/></a> -->
 
-<!-- <p align="left">
+<p align="left">
 <a href="https://github.com/ferdianar">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdianar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdianar&layout=compact&langs_count=10&theme=algolia"/>
 </a>
-</p> -->
+</p>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ferdianar&theme=navy-gear&date_format=M%20j%5B%2C%20Y%5D&fire=DDCF00&background=00031B&border=D5DD00&stroke=CDDD00&ring=5A59DD&currStreakNum=D8DD00&sideNums=D9EA2D&currStreakLabel=DD2727&sideLabels=7B6DDD&dates=DDDC1D)](https://git.io/streak-stats) -->
 

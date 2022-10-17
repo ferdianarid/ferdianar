@@ -97,6 +97,8 @@
 <!--   </tr>
 </table> -->
 
+[![@ferdianarid's Holopin board](https://holopin.me/ferdianarid)](https://holopin.io/@ferdianarid)
+
 ### Find and discover me around the web 🌎:
  - Contribute create some components in <a href="https://tailwindcomponents.com/u/ferdian-ahmad-r" target="_blank" alt="tailwind"> **Tailwind Components** </a>
  - Share small article and explain about my profile and interest in <a href="https://ferdian.vercel.app/" target="_blank" alt="website"> **Personal Website** </a>

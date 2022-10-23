@@ -99,6 +99,8 @@
 
 [![@ferdianarid's Holopin board](https://holopin.me/ferdianarid)](https://holopin.io/@ferdianarid)
 
+<a href="https://github.com/ferdianar/github-readme-activity-graph"><img alt="Ferdian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ferdianar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 ### Find and discover me around the web 🌎:
  - Contribute create some components in <a href="https://tailwindcomponents.com/u/ferdian-ahmad-r" target="_blank" alt="tailwind"> **Tailwind Components** </a>
  - Share small article and explain about my profile and interest in <a href="https://ferdian.vercel.app/" target="_blank" alt="website"> **Personal Website** </a>

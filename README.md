@@ -103,9 +103,11 @@
 
 ### Find and discover me around the web 🌎:
  - Contribute create some components in <a href="https://tailwindcomponents.com/u/ferdian-ahmad-r" target="_blank" alt="tailwind"> **Tailwind Components** </a>
- - Share small article and explain about my profile and interest in <a href="https://ferdian.vercel.app/" target="_blank" alt="website"> **Personal Website** </a>
+ - Share small article and explain about my profile and interest in <a href="https://ferdianarid.com" target="_blank" alt="website"> **Personal Website** </a>
  - Write article post and Sharing knowldge about technology in <a href="https://ferdianar.medium.com/" target="_blank" alt="medium ferdian"> **Medium** </a>
  - Profile description, skills, achievement and working experience on <a href="https://www.linkedin.com/in/ferdianar/" target="_blank" alt="linkedin"> **LinkedIn** </a>
  - Spare time also create posts about programming on <a href="https://www.instagram.com/ferdianarid/" target="_blank" alt="instagram"> **Instagram** </a>
+ - Discover me on the Dev.to for latest posts <a href="https://dev.to/ferdianar" alt="devto">**Dev.to Profile**</a>
+ - See my profile and progress in Google Developer Profile and badge <a href="https://g.dev/ferdianarid" alt="googledeveloper">**Google Developer Profile**</a>
  - Make a Design Exploration and publish it in <a href="https://dribbble.com/ferdianar" alt="dribbble" target="_blank"> **Dribbble**</a>
  <!--  - Learn problem solving skill for solving any problem in <a href="https://www.hackerrank.com/ferdianarid"> Hackerrank </a> -->

@@ -100,7 +100,7 @@
 </table> -->
 ### Skills
 ## Work / Skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,javascript,tailwind,mongodb,nodejs,vite,markdown,styledcomponents,github,vercel,figma,git,vscode,xd&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,javascript,tailwind,mongodb,nodejs,vite,markdown,styledcomponents,github,vercel,figma,git,vscode,xd&perline=8&theme=dark)](https://skillicons.dev)
 
 ### Achievement
 [![@ferdianarid's Holopin board](https://holopin.me/ferdianarid)](https://holopin.io/@ferdianarid)

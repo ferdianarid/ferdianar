@@ -98,7 +98,11 @@
     </td> -->
 <!--   </tr>
 </table> -->
+### Skills
+## Work / Skills
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,javascript,tailwind,mongodb,nodejs,vite,markdown,styledcomponents,github,vercel,figma,git,vscode,xd&theme=dark)](https://skillicons.dev)
 
+### Achievement
 [![@ferdianarid's Holopin board](https://holopin.me/ferdianarid)](https://holopin.io/@ferdianarid)
 
 <a href="https://github.com/ferdianar/github-readme-activity-graph"><img alt="Ferdian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ferdianar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
